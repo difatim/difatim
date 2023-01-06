@@ -7,7 +7,7 @@ Software Developer & Designer
 Passionate about Web Development. Let's make something Special !
 
 *   🌱  She/Her
-*   🌍  I'm based in New York
+*   🌍  I'm based in Canada
 *   🖥️  See my portfolio at [https://fatimportfolio.com](https://fatimportfolio.com)
 *   ⚡  I love reading and writing. In the end, we'll all become stories.
 <p align="left">
