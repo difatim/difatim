@@ -1,7 +1,7 @@
-Hi 👋 My name is Fatim
+About Me 💫
 ======================
 
-Software Developer & Designer
+FullStack Software Developer 
 -----------------------------
 
 Passionate about Web Development. Let's make something Special !
