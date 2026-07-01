@@ -4,11 +4,11 @@ About Me 💫
 Data Analysis and Visualization
 -----------------------------
 
-Passionate about Web Development. Let's make something Special !
+Passionate about Web Development. Let's build something Special!
 
 *   🌱  She/Her
 *   🌍  I'm based in Canada
-*   🖥️  See my portfolio at [my Streamlit app](https://fatimportfolio.streamlit.app/)
+*   🖥️  See my portfolio at [my Streamlit app](https://fatimportfolio.streamlit.app/).
 *   ⚡  I love reading and writing. In the end, we'll all become stories.
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
