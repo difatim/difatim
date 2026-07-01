@@ -4,7 +4,7 @@ About Me 💫
 Data Analysis and Visualization
 -----------------------------
 
-Passionate about Web Development. Let's build something Special!
+Passionate about Data Analysis and Web Development. Let's build something special!
 
 *   🌱  She/Her
 *   🌍  I'm based in Canada
