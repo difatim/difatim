@@ -7,7 +7,7 @@ Data Analysis and Visualization
 Passionate about Data Analysis and Web Development. Let's build something special!
 
 *   🌱  She/Her
-*   🌍  I'm based in Canada
+*   🌍  Based in Canada
 *   🖥️  See my portfolio at [my Streamlit app](https://fatimportfolio.streamlit.app/).
 *   ⚡  I love reading and writing. In the end, we'll all become stories.
 <p align="left">
