@@ -11,7 +11,7 @@ Passionate about Data Analysis, Visualization and Web Development. Let's build s
 *   🖥️  See my portfolio [here](https://fatim-portfolio.vercel.app/).
 *   ⚡  I love reading and writing. In the end, we'll all become stories.
 <p align="left">
-<a [![My Skills](https://skillicons.dev/icons?i=py,r,git,github,html,css,js,vscode,wordpress,windows)](https://skillicons.dev) /></a>
+[![My Skills](https://skillicons.dev/icons?i=py,r,git,github,html,css,js,vscode,wordpress,windows)](https://skillicons.dev)
 </p>
             
       
