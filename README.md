@@ -11,13 +11,7 @@ Passionate about Data Analysis, Visualization and Web Development. Let's build s
 *   🖥️  See my portfolio [here](https://fatim-portfolio.vercel.app/).
 *   ⚡  I love reading and writing. In the end, we'll all become stories.
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-            
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-
-[![My Skills](https://skillicons.dev/icons?i=py,r,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,git,github,html,css,js,vscode,wordpress,windows)](https://skillicons.dev) /></a>
 </p>
             
       
